@@ -991,3 +991,14 @@ ol.children {
 .article-list .articles > li {
   margin: 20px 0 50px;
 }
+/* Nicu */
+
+
+.woocommerce .woocommerce-breadcrumb {
+  color: red;
+  font-size: 1.6em;
+  
+}
+.woocommerce .woocommerce-breadcrumb a {
+  color: red;
+}
